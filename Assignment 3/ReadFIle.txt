@@ -1,0 +1,8 @@
+PS E:\VS CODE\Node.Js> cd Task_3
+PS E:\VS CODE\Node.Js\Task_3> node function_code.js
+Order ID: 101
+Item: iPhone
+Amount: 80000
+Tax: 8000
+Order data displayed successfully.
+PS E:\VS CODE\Node.Js\Task_3> 
