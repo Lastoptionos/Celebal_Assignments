@@ -6,6 +6,7 @@
 ### Functions Used (function_coded.js) : 
 
 #### We can run the code in terminal using 'node function_code.js'
+#### We can run the code in terminal using 'node refactored_code.js'
 1. fetchOrderData()
    - Purpose: Simulates an asynchronous function to fetch order data from an API.
 2. processOrderData(orderData)
